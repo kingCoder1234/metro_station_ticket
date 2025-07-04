@@ -14,6 +14,7 @@ A Spring Boot-based web application that allows users to book metro tickets, man
 | Layer        | Technology        |
 |--------------|-------------------|
 | Backend      | Java, Spring Boot |
+| Frontend     | React.js          |
 | Database     | MySQL             |
 | ORM          | Spring Data JPA   |
 | Build Tool   | Maven             |
