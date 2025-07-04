@@ -19,11 +19,6 @@ A Spring Boot-based web application that allows users to book metro tickets, man
 | Build Tool   | Maven             |
 | IDE          | IntelliJ / Eclipse |
 
-## 📁 Project Structure
-
-
-
-
 
 ## ⚙️ Configuration
 
@@ -31,8 +26,8 @@ Make sure your `application.properties` is set up properly in `src/main/resource
 
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/metrodb
-spring.datasource.username=yourusername
-spring.datasource.password=yourpassword
+spring.datasource.username=yourusername --> Add here your data base username
+spring.datasource.password=yourpassword  --> Add here your data base password
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 spring.jpa.hibernate.ddl-auto=update
