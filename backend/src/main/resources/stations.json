@@ -1,0 +1,29 @@
+{
+  "stations": {
+    "Central": { "startStation": true, "price": 0 },
+    "Union Square": { "price": 3 },
+    "Park Street": { "price": 5 },
+    "City Hall": { "price": 7 },
+    "Tech Park": { "price": 9 },
+    "University": { "price": 11 },
+    "Midtown": { "price": 13 },
+    "Harbor Point": { "price": 15 },
+    "Greenwood": { "price": 17 },
+    "Riverside": { "price": 19 },
+    "Museum District": { "price": 21 },
+    "Library Square": { "price": 23 },
+    "North Heights": { "price": 25 },
+    "Grand Junction": { "price": 27 },
+    "Westend": { "price": 29 },
+    "Lakeside": { "price": 31 },
+    "Old Town": { "price": 33 },
+    "Market Center": { "price": 35 },
+    "Meadowfield": { "price": 37 },
+    "Industrial Zone": { "price": 39 },
+    "Maple Grove": { "price": 41 },
+    "Sunset Hills": { "price": 43 },
+    "Pinecrest": { "price": 45 },
+    "Aero City": { "price": 48 },
+    "Grand Terminal": { "lastStation": true, "price": 50 }
+  }
+}
